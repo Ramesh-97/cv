@@ -1,8 +1,8 @@
-# cv# 👋 Hi, I'm Ramesh Kumar Menghwar  
+# Hi, I'm Ramesh Kumar Menghwar  
 **Industrial Engineer | Risk Management Specialist | Lean Six Sigma Practitioner**  
 📍 Genoa, Italy | 📧 rkparhiar4u@gmail.com | 📱 +39 3420390358  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]((https://www.linkedin.com/in/ramesh-kumar-menghwar-752077155/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ramesh-kumar-menghwar-752077155/)  
 [![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-Proficient-yellowgreen)](https://earthengine.google.com/)  
 [![Six Sigma](https://img.shields.io/badge/Six_Sigma-Yellow_Belt-orange)](https://www.vmedu.com/)  
 
@@ -64,7 +64,7 @@ Industrial Engineer and Natural Risk Management graduate with expertise in **Lea
 - University of Genoa, Italy | Grade: 89/110  
 - Thesis: SAR-optical fusion for crop mapping.  
 
-**BSc in Industrial Engineering**  
+**B.E in Industrial Engineering & Management**  
 - Mehran University, Pakistan | CGPA: 3.23/4.00  
 - Key Project: Line balancing for textile assembly throughput.  
 
