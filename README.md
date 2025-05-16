@@ -2,7 +2,7 @@
 **Industrial Engineer | Risk Management Specialist | Lean Six Sigma Practitioner**  
 📍 Genoa, Italy | 📧 rkparhiar4u@gmail.com | 📱 +39 3420390358  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([your-linkedin-link](https://www.linkedin.com/in/ramesh-kumar-menghwar-752077155/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]((https://www.linkedin.com/in/ramesh-kumar-menghwar-752077155/))  
 [![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-Proficient-yellowgreen)](https://earthengine.google.com/)  
 [![Six Sigma](https://img.shields.io/badge/Six_Sigma-Yellow_Belt-orange)](https://www.vmedu.com/)  
 
